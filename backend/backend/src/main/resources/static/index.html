@@ -1,14 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>VGA Demo</title>
-    <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
-  </head>
-  <body>
-    <a-scene>
-      <a-box position="0 1 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
-      <a-sky color="#ECECEC"></a-sky>
-    </a-scene>
-  </body>
-</html>
+<a-assets>
+  <a-asset-item id="road" src="/assets/models/environment/infrastructure/road_segment.glb"></a-asset-item>
+</a-assets>
+
+<a-entity gltf-model="#road" position="0 0 0"></a-entity>
+
 

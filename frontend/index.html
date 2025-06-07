@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Phase 3.1.1 – Road Grid Layout</title>
+  <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+</head>
+<body>
+  <a-scene background="color: #ECECEC">
+
+    <!-- 📦 Assets -->
+    <a-assets>
+      <a-asset-item id="road" src="./assets/models/environment/infrastructure/road.glb"></a-asset-item>
+      <a-asset-item id="roadSidewalk" src="./assets/models/environment/infrastructure/road_with_sidewalk.glb"></a-asset-item>
+      <a-asset-item id="intersection" src="./assets/models/environment/infrastructure/intersection.glb"></a-asset-item>
+    </a-assets>
+
+    <!-- 🚦 Road Grid -->
+    <a-entity id="road-grid"></a-entity>
+
+    <!-- 📏 Reference Box -->
+    <a-box position="-5 1 0" color="#FF0000" width="1" height="2" depth="1"></a-box>
+
+    <!-- 🎥 Camera -->
+    <a-entity position="40 15 130">
+      <a-camera wasd-controls="acceleration: 2500" look-controls>
+        <a-cursor></a-cursor>
+      </a-camera>
+    </a-entity>
+
+    <!-- 💡 Lighting -->
+    <a-light type="ambient" intensity="0.9" color="#ffffff"></a-light>
+    <a-light type="directional" position="0 20 20" intensity="1" castShadow="true"></a-light>
+
+    <!-- 🌍 Ground -->
+    <a-plane rotation="-90 0 0" width="3000" height="3000" color="#d0d0d0"></a-plane>
+
+    <!-- 🧠 Road Script -->
+    <script>
+      const grid = document.getElementById('road-grid');
+      const scale = '3 3 3';
+      const spacing = 20;
+
+      for (let i = 0; i < 4; i++) {
+        for (let j = 0; j < 4; j++) {
+          const x = i * spacing;
+          const z = j * spacing;
+          const entity = document.createElement('a-entity');
+
+          if (i > 0 && j > 0) {
+            entity.setAttribute('gltf-model', '#intersection');
+          } else if (j % 2 === 0) {
+            entity.setAttribute('gltf-model', '#roadSidewalk');
+          } else {
+            entity.setAttribute('gltf-model', '#road');
+            entity.setAttribute('rotation', '0 90 0');
+          }
+
+          entity.setAttribute('position', `${x} 0 ${z}`);
+          entity.setAttribute('scale', scale);
+          grid.appendChild(entity);
+        }
+      }
+    </script>
+
+  </a-scene>
+</body>
+</html>
