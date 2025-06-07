@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set your root directory containing all building subfolders
-BASE_DIR=~/HeroPractice/VGA/frontend/assets/models/vehicles
+BASE_DIR=~/HeroPractice/VGA/frontend/assets/models/characters
 
 # Navigate to base directory
 cd "$BASE_DIR" || { echo "Directory not found: $BASE_DIR"; exit 1; }
