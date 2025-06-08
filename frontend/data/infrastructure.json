@@ -1,0 +1,702 @@
+[
+  {
+    "name": "elevator",
+    "path": "frontend/assets/models/environment/interactive_elements/elevator.glb"
+  },
+  {
+    "name": "control_panel",
+    "path": "frontend/assets/models/environment/interactive_elements/control_panel.glb"
+  },
+  {
+    "name": "door",
+    "path": "frontend/assets/models/environment/interactive_elements/door.glb"
+  },
+  {
+    "name": "stairs_open_single",
+    "path": "frontend/assets/models/environment/interactive_elements/stairs_open_single.glb"
+  },
+  {
+    "name": "sign_hospital",
+    "path": "frontend/assets/models/environment/interactive_elements/sign_hospital.glb"
+  },
+  {
+    "name": "billboard",
+    "path": "frontend/assets/models/environment/interactive_elements/billboard.glb"
+  },
+  {
+    "name": "vending_machine",
+    "path": "frontend/assets/models/environment/interactive_elements/vending_machine.glb"
+  },
+  {
+    "name": "lever",
+    "path": "frontend/assets/models/environment/interactive_elements/lever.glb"
+  },
+  {
+    "name": "info_button",
+    "path": "frontend/assets/models/environment/interactive_elements/info_button.glb"
+  },
+  {
+    "name": "tree",
+    "path": "frontend/assets/models/environment/urban_decor/tree.glb"
+  },
+  {
+    "name": "big_tree",
+    "path": "frontend/assets/models/environment/urban_decor/big_tree.glb"
+  },
+  {
+    "name": "bush_with_flowers",
+    "path": "frontend/assets/models/environment/urban_decor/bush_with_flowers.glb"
+  },
+  {
+    "name": "vine_covered_tree",
+    "path": "frontend/assets/models/environment/urban_decor/vine_covered_tree.glb"
+  },
+  {
+    "name": "trashcan",
+    "path": "frontend/assets/models/environment/urban_decor/trashcan.glb"
+  },
+  {
+    "name": "bush",
+    "path": "frontend/assets/models/environment/urban_decor/bush.glb"
+  },
+  {
+    "name": "planter_%26_bushes",
+    "path": "frontend/assets/models/environment/urban_decor/planter_%26_bushes.glb"
+  },
+  {
+    "name": "picnic_table",
+    "path": "frontend/assets/models/environment/urban_decor/picnic_table.glb"
+  },
+  {
+    "name": "park_bench",
+    "path": "frontend/assets/models/environment/urban_decor/park_bench.glb"
+  },
+  {
+    "name": "fence_piece",
+    "path": "frontend/assets/models/environment/urban_decor/fence_piece.glb"
+  },
+  {
+    "name": "bench",
+    "path": "frontend/assets/models/environment/urban_decor/bench.glb"
+  },
+  {
+    "name": "houseplant",
+    "path": "frontend/assets/models/environment/urban_decor/houseplant.glb"
+  },
+  {
+    "name": "horse_statue",
+    "path": "frontend/assets/models/environment/urban_decor/horse_statue.glb"
+  },
+  {
+    "name": "fountain",
+    "path": "frontend/assets/models/environment/urban_decor/fountain.glb"
+  },
+  {
+    "name": "grass_patch",
+    "path": "frontend/assets/models/environment/urban_decor/grass_patch.glb"
+  },
+  {
+    "name": "tree_(1)",
+    "path": "frontend/assets/models/environment/urban_decor/tree_(1).glb"
+  },
+  {
+    "name": "bus_stop",
+    "path": "frontend/assets/models/environment/infrastructure/bus_stop.glb"
+  },
+  {
+    "name": "telephone_pole",
+    "path": "frontend/assets/models/environment/infrastructure/telephone_pole.glb"
+  },
+  {
+    "name": "manhole_cover",
+    "path": "frontend/assets/models/environment/infrastructure/manhole_cover.glb"
+  },
+  {
+    "name": "road_(1)",
+    "path": "frontend/assets/models/environment/infrastructure/road_(1).glb"
+  },
+  {
+    "name": "water_tower",
+    "path": "frontend/assets/models/environment/infrastructure/water_tower.glb"
+  },
+  {
+    "name": "intersection",
+    "path": "frontend/assets/models/environment/infrastructure/intersection.glb"
+  },
+  {
+    "name": "street_light",
+    "path": "frontend/assets/models/environment/infrastructure/street_light.glb"
+  },
+  {
+    "name": "railway_track_curve",
+    "path": "frontend/assets/models/environment/infrastructure/railway_track_curve.glb"
+  },
+  {
+    "name": "traffic_barrier",
+    "path": "frontend/assets/models/environment/infrastructure/traffic_barrier.glb"
+  },
+  {
+    "name": "japanese_train_station",
+    "path": "frontend/assets/models/environment/infrastructure/japanese_train_station.glb"
+  },
+  {
+    "name": "trafficlight_b",
+    "path": "frontend/assets/models/environment/infrastructure/trafficlight_b.glb"
+  },
+  {
+    "name": "parking_lot",
+    "path": "frontend/assets/models/environment/infrastructure/parking_lot.glb"
+  },
+  {
+    "name": "country_side_road_seamless",
+    "path": "frontend/assets/models/environment/infrastructure/country_side_road_seamless.glb"
+  },
+  {
+    "name": "road_with_sidewalk",
+    "path": "frontend/assets/models/environment/infrastructure/road_with_sidewalk.glb"
+  },
+  {
+    "name": "railway_track_straight",
+    "path": "frontend/assets/models/environment/infrastructure/railway_track_straight.glb"
+  },
+  {
+    "name": "lamp_post",
+    "path": "frontend/assets/models/environment/infrastructure/lamp_post.glb"
+  },
+  {
+    "name": "stop_sign",
+    "path": "frontend/assets/models/environment/infrastructure/stop_sign.glb"
+  },
+  {
+    "name": "radio_tower",
+    "path": "frontend/assets/models/environment/infrastructure/radio_tower.glb"
+  },
+  {
+    "name": "cross_walk",
+    "path": "frontend/assets/models/environment/infrastructure/cross_walk.glb"
+  },
+  {
+    "name": "road",
+    "path": "frontend/assets/models/environment/infrastructure/road.glb"
+  },
+  {
+    "name": "wizard_tower",
+    "path": "frontend/assets/models/environment/infrastructure/wizard_tower.glb"
+  },
+  {
+    "name": "cathedral",
+    "path": "frontend/assets/models/environment/building/civic/cathedral.glb"
+  },
+  {
+    "name": "police_box",
+    "path": "frontend/assets/models/environment/building/civic/police_box.glb"
+  },
+  {
+    "name": "fire_station_with_fire_trucks",
+    "path": "frontend/assets/models/environment/building/civic/fire_station_with_fire_trucks.glb"
+  },
+  {
+    "name": "mayan_temple",
+    "path": "frontend/assets/models/environment/building/civic/mayan_temple.glb"
+  },
+  {
+    "name": "the_entryway_-_museum_diorama",
+    "path": "frontend/assets/models/environment/building/civic/the_entryway_-_museum_diorama.glb"
+  },
+  {
+    "name": "bus",
+    "path": "frontend/assets/models/environment/building/civic/bus.glb"
+  },
+  {
+    "name": "castle_mailbox",
+    "path": "frontend/assets/models/environment/building/civic/castle_mailbox.glb"
+  },
+  {
+    "name": "fortress",
+    "path": "frontend/assets/models/environment/building/civic/fortress.glb"
+  },
+  {
+    "name": "japanese_train_station",
+    "path": "frontend/assets/models/environment/building/civic/japanese_train_station.glb"
+  },
+  {
+    "name": "town_center",
+    "path": "frontend/assets/models/environment/building/civic/town_center.glb"
+  },
+  {
+    "name": "hospital",
+    "path": "frontend/assets/models/environment/building/civic/hospital.glb"
+  },
+  {
+    "name": "castle",
+    "path": "frontend/assets/models/environment/building/civic/castle.glb"
+  },
+  {
+    "name": "schoolhouse",
+    "path": "frontend/assets/models/environment/building/civic/schoolhouse.glb"
+  },
+  {
+    "name": "church",
+    "path": "frontend/assets/models/environment/building/civic/church.glb"
+  },
+  {
+    "name": "watch_tower",
+    "path": "frontend/assets/models/environment/building/highrise/watch_tower.glb"
+  },
+  {
+    "name": "skyscraper",
+    "path": "frontend/assets/models/environment/building/highrise/skyscraper.glb"
+  },
+  {
+    "name": "skyscraper2",
+    "path": "frontend/assets/models/environment/building/highrise/skyscraper2.glb"
+  },
+  {
+    "name": "hotel",
+    "path": "frontend/assets/models/environment/building/highrise/hotel.glb"
+  },
+  {
+    "name": "bar",
+    "path": "frontend/assets/models/environment/building/commercial/bar.glb"
+  },
+  {
+    "name": "business_building",
+    "path": "frontend/assets/models/environment/building/commercial/business_building.glb"
+  },
+  {
+    "name": "casino",
+    "path": "frontend/assets/models/environment/building/commercial/casino.glb"
+  },
+  {
+    "name": "cinema",
+    "path": "frontend/assets/models/environment/building/commercial/cinema.glb"
+  },
+  {
+    "name": "diner",
+    "path": "frontend/assets/models/environment/building/commercial/diner.glb"
+  },
+  {
+    "name": "gas_station",
+    "path": "frontend/assets/models/environment/building/commercial/gas_station.glb"
+  },
+  {
+    "name": "coffee_shop",
+    "path": "frontend/assets/models/environment/building/commercial/coffee_shop.glb"
+  },
+  {
+    "name": "shop",
+    "path": "frontend/assets/models/environment/building/commercial/shop.glb"
+  },
+  {
+    "name": "black_smith_shop",
+    "path": "frontend/assets/models/environment/building/commercial/black_smith_shop.glb"
+  },
+  {
+    "name": "shipping_container_red",
+    "path": "frontend/assets/models/environment/building/industrial/shipping_container_red.glb"
+  },
+  {
+    "name": "crane",
+    "path": "frontend/assets/models/environment/building/industrial/crane.glb"
+  },
+  {
+    "name": "private_factory",
+    "path": "frontend/assets/models/environment/building/industrial/private_factory.glb"
+  },
+  {
+    "name": "factory",
+    "path": "frontend/assets/models/environment/building/industrial/factory.glb"
+  },
+  {
+    "name": "container",
+    "path": "frontend/assets/models/environment/building/industrial/container.glb"
+  },
+  {
+    "name": "powerplant",
+    "path": "frontend/assets/models/environment/building/industrial/powerplant.glb"
+  },
+  {
+    "name": "gas_station",
+    "path": "frontend/assets/models/environment/building/industrial/gas_station.glb"
+  },
+  {
+    "name": "building",
+    "path": "frontend/assets/models/environment/building/residential/building.glb"
+  },
+  {
+    "name": "forest_hut",
+    "path": "frontend/assets/models/environment/building/residential/forest_hut.glb"
+  },
+  {
+    "name": "small_building",
+    "path": "frontend/assets/models/environment/building/residential/small_building.glb"
+  },
+  {
+    "name": "camp_site",
+    "path": "frontend/assets/models/environment/building/residential/camp_site.glb"
+  },
+  {
+    "name": "large_building",
+    "path": "frontend/assets/models/environment/building/residential/large_building.glb"
+  },
+  {
+    "name": "seaside_villa",
+    "path": "frontend/assets/models/environment/building/residential/seaside_villa.glb"
+  },
+  {
+    "name": "farm_house",
+    "path": "frontend/assets/models/environment/building/residential/farm_house.glb"
+  },
+  {
+    "name": "concept_home",
+    "path": "frontend/assets/models/environment/building/residential/concept_home.glb"
+  },
+  {
+    "name": "big_building",
+    "path": "frontend/assets/models/environment/building/residential/big_building.glb"
+  },
+  {
+    "name": "apartment_building",
+    "path": "frontend/assets/models/environment/building/residential/apartment_building.glb"
+  },
+  {
+    "name": "small_building",
+    "path": "frontend/assets/models/environment/building/generic/small_building.glb"
+  },
+  {
+    "name": "fantasy_house",
+    "path": "frontend/assets/models/environment/building/generic/fantasy_house.glb"
+  },
+  {
+    "name": "city_block",
+    "path": "frontend/assets/models/environment/building/generic/city_block.glb"
+  },
+  {
+    "name": "hut",
+    "path": "frontend/assets/models/environment/building/generic/hut.glb"
+  },
+  {
+    "name": "salford_street",
+    "path": "frontend/assets/models/environment/building/generic/salford_street.glb"
+  },
+  {
+    "name": "cottage",
+    "path": "frontend/assets/models/environment/building/generic/cottage.glb"
+  },
+  {
+    "name": "police_car",
+    "path": "frontend/assets/models/vehicles/emergency/police_car.glb"
+  },
+  {
+    "name": "ambulance",
+    "path": "frontend/assets/models/vehicles/emergency/ambulance.glb"
+  },
+  {
+    "name": "tank",
+    "path": "frontend/assets/models/vehicles/military/tank.glb"
+  },
+  {
+    "name": "jeep",
+    "path": "frontend/assets/models/vehicles/military/jeep.glb"
+  },
+  {
+    "name": "military_motorbike",
+    "path": "frontend/assets/models/vehicles/military/military_motorbike.glb"
+  },
+  {
+    "name": "van",
+    "path": "frontend/assets/models/vehicles/civilian/van.glb"
+  },
+  {
+    "name": "motorcycle",
+    "path": "frontend/assets/models/vehicles/civilian/motorcycle.glb"
+  },
+  {
+    "name": "convertible_(1)",
+    "path": "frontend/assets/models/vehicles/civilian/convertible_(1).glb"
+  },
+  {
+    "name": "sportster",
+    "path": "frontend/assets/models/vehicles/civilian/sportster.glb"
+  },
+  {
+    "name": "car",
+    "path": "frontend/assets/models/vehicles/civilian/car.glb"
+  },
+  {
+    "name": "car_(1)",
+    "path": "frontend/assets/models/vehicles/civilian/car_(1).glb"
+  },
+  {
+    "name": "scooter",
+    "path": "frontend/assets/models/vehicles/civilian/scooter.glb"
+  },
+  {
+    "name": "mazda_rx-7",
+    "path": "frontend/assets/models/vehicles/civilian/mazda_rx-7.glb"
+  },
+  {
+    "name": "convertible",
+    "path": "frontend/assets/models/vehicles/civilian/convertible.glb"
+  },
+  {
+    "name": "pickup_truck",
+    "path": "frontend/assets/models/vehicles/civilian/pickup_truck.glb"
+  },
+  {
+    "name": "motorcycle%2c_suzuki_sv650",
+    "path": "frontend/assets/models/vehicles/civilian/motorcycle%2c_suzuki_sv650.glb"
+  },
+  {
+    "name": "dump_truck",
+    "path": "frontend/assets/models/vehicles/special/dump_truck.glb"
+  },
+  {
+    "name": "truck_armored",
+    "path": "frontend/assets/models/vehicles/special/truck_armored.glb"
+  },
+  {
+    "name": "helicopter",
+    "path": "frontend/assets/models/vehicles/special/helicopter.glb"
+  },
+  {
+    "name": "school_bus",
+    "path": "frontend/assets/models/vehicles/public/school_bus.glb"
+  },
+  {
+    "name": "montreal_bus",
+    "path": "frontend/assets/models/vehicles/public/montreal_bus.glb"
+  },
+  {
+    "name": "tram",
+    "path": "frontend/assets/models/vehicles/public/tram.glb"
+  },
+  {
+    "name": "taxi",
+    "path": "frontend/assets/models/vehicles/public/taxi.glb"
+  },
+  {
+    "name": "Cash Money - Stack of 20's",
+    "path": "frontend/assets/models/gameplay_items/collectibles/Cash Money - Stack of 20's.glb"
+  },
+  {
+    "name": "Coin Dollar Sign",
+    "path": "frontend/assets/models/gameplay_items/collectibles/Coin Dollar Sign.glb"
+  },
+  {
+    "name": "Pickup Crate",
+    "path": "frontend/assets/models/gameplay_items/collectibles/Pickup Crate.glb"
+  },
+  {
+    "name": "Pickup Health (1)",
+    "path": "frontend/assets/models/gameplay_items/collectibles/Pickup Health (1).glb"
+  },
+  {
+    "name": "Scifi Crate",
+    "path": "frontend/assets/models/gameplay_items/collectibles/Scifi Crate.glb"
+  },
+  {
+    "name": "Pickup Health",
+    "path": "frontend/assets/models/gameplay_items/collectibles/Pickup Health.glb"
+  },
+  {
+    "name": "Chest (1)",
+    "path": "frontend/assets/models/gameplay_items/mission-props/Chest (1).glb"
+  },
+  {
+    "name": "Laptop bag",
+    "path": "frontend/assets/models/gameplay_items/mission-props/Laptop bag.glb"
+  },
+  {
+    "name": "Backpack (1)",
+    "path": "frontend/assets/models/gameplay_items/mission-props/Backpack (1).glb"
+  },
+  {
+    "name": "Package",
+    "path": "frontend/assets/models/gameplay_items/mission-props/Package.glb"
+  },
+  {
+    "name": "Backpack",
+    "path": "frontend/assets/models/gameplay_items/mission-props/Backpack.glb"
+  },
+  {
+    "name": "Briefcase",
+    "path": "frontend/assets/models/gameplay_items/mission-props/Briefcase.glb"
+  },
+  {
+    "name": "Chest",
+    "path": "frontend/assets/models/gameplay_items/mission-props/Chest.glb"
+  },
+  {
+    "name": "Suit Case",
+    "path": "frontend/assets/models/gameplay_items/mission-props/Suit Case.glb"
+  },
+  {
+    "name": "pistol_(1)",
+    "path": "frontend/assets/models/gameplay_items/weapons/pistol_(1).glb"
+  },
+  {
+    "name": "bullpup",
+    "path": "frontend/assets/models/gameplay_items/weapons/bullpup.glb"
+  },
+  {
+    "name": "rifle_speedrun_test",
+    "path": "frontend/assets/models/gameplay_items/weapons/rifle_speedrun_test.glb"
+  },
+  {
+    "name": "mpsd",
+    "path": "frontend/assets/models/gameplay_items/weapons/mpsd.glb"
+  },
+  {
+    "name": "mp5",
+    "path": "frontend/assets/models/gameplay_items/weapons/mp5.glb"
+  },
+  {
+    "name": "mp7",
+    "path": "frontend/assets/models/gameplay_items/weapons/mp7.glb"
+  },
+  {
+    "name": "mpa",
+    "path": "frontend/assets/models/gameplay_items/weapons/mpa.glb"
+  },
+  {
+    "name": "submachine_gun",
+    "path": "frontend/assets/models/gameplay_items/weapons/submachine_gun.glb"
+  },
+  {
+    "name": "mpx",
+    "path": "frontend/assets/models/gameplay_items/weapons/mpx.glb"
+  },
+  {
+    "name": "shotgun_double_barrel",
+    "path": "frontend/assets/models/gameplay_items/weapons/shotgun_double_barrel.glb"
+  },
+  {
+    "name": "uzi",
+    "path": "frontend/assets/models/gameplay_items/weapons/uzi.glb"
+  },
+  {
+    "name": "smg",
+    "path": "frontend/assets/models/gameplay_items/weapons/smg.glb"
+  },
+  {
+    "name": "ak47",
+    "path": "frontend/assets/models/gameplay_items/weapons/ak47.glb"
+  },
+  {
+    "name": "shotgun_auto_west",
+    "path": "frontend/assets/models/gameplay_items/weapons/shotgun_auto_west.glb"
+  },
+  {
+    "name": "pistol",
+    "path": "frontend/assets/models/gameplay_items/weapons/pistol.glb"
+  },
+  {
+    "name": "pistol_(2)",
+    "path": "frontend/assets/models/gameplay_items/weapons/pistol_(2).glb"
+  },
+  {
+    "name": "swat",
+    "path": "frontend/assets/models/characters/npcs/swat.glb"
+  },
+  {
+    "name": "soldier_(1)",
+    "path": "frontend/assets/models/characters/npcs/soldier_(1).glb"
+  },
+  {
+    "name": "soldier",
+    "path": "frontend/assets/models/characters/npcs/soldier.glb"
+  },
+  {
+    "name": "zombie",
+    "path": "frontend/assets/models/characters/zombies/zombie.glb"
+  },
+  {
+    "name": "male_officer",
+    "path": "frontend/assets/models/characters/medics/male_officer.glb"
+  },
+  {
+    "name": "sci_fi_character",
+    "path": "frontend/assets/models/characters/robots/sci_fi_character.glb"
+  },
+  {
+    "name": "ms_gundam_rx-78-2_with_weapons",
+    "path": "frontend/assets/models/characters/robots/ms_gundam_rx-78-2_with_weapons.glb"
+  },
+  {
+    "name": "man",
+    "path": "frontend/assets/models/characters/civilians/man.glb"
+  },
+  {
+    "name": "worker",
+    "path": "frontend/assets/models/characters/civilians/worker.glb"
+  },
+  {
+    "name": "farmer",
+    "path": "frontend/assets/models/characters/civilians/farmer.glb"
+  },
+  {
+    "name": "business_man",
+    "path": "frontend/assets/models/characters/civilians/business_man.glb"
+  },
+  {
+    "name": "adventurer",
+    "path": "frontend/assets/models/characters/avatars/adventurer.glb"
+  },
+  {
+    "name": "astronaut_(2)",
+    "path": "frontend/assets/models/characters/avatars/astronaut_(2).glb"
+  },
+  {
+    "name": "beach_character",
+    "path": "frontend/assets/models/characters/avatars/beach_character.glb"
+  },
+  {
+    "name": "character_animated",
+    "path": "frontend/assets/models/characters/avatars/character_animated.glb"
+  },
+  {
+    "name": "adventurer_(1)",
+    "path": "frontend/assets/models/characters/avatars/adventurer_(1).glb"
+  },
+  {
+    "name": "punk_(1)",
+    "path": "frontend/assets/models/characters/avatars/punk_(1).glb"
+  },
+  {
+    "name": "animated_woman",
+    "path": "frontend/assets/models/characters/avatars/animated_woman.glb"
+  },
+  {
+    "name": "astronaut",
+    "path": "frontend/assets/models/characters/avatars/astronaut.glb"
+  },
+  {
+    "name": "animated_woman_(1)",
+    "path": "frontend/assets/models/characters/avatars/animated_woman_(1).glb"
+  },
+  {
+    "name": "punk",
+    "path": "frontend/assets/models/characters/avatars/punk.glb"
+  },
+  {
+    "name": "astronaut_(1)",
+    "path": "frontend/assets/models/characters/avatars/astronaut_(1).glb"
+  },
+  {
+    "name": "hooded_adventurer",
+    "path": "frontend/assets/models/characters/avatars/hooded_adventurer.glb"
+  },
+  {
+    "name": "king",
+    "path": "frontend/assets/models/characters/fantasy/king.glb"
+  },
+  {
+    "name": "witch",
+    "path": "frontend/assets/models/characters/fantasy/witch.glb"
+  },
+  {
+    "name": "knight",
+    "path": "frontend/assets/models/characters/fantasy/knight.glb"
+  }
+]
